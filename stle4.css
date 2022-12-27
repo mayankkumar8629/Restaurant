@@ -1,0 +1,44 @@
+.footer {
+    text-align: center;
+    padding: 2% 15%;
+}
+
+.below {
+    background-color: #9ED5C5;
+    margin-top: 0px;
+}
+#section2{
+
+padding: 13% 7%;
+
+
+}
+.form{
+    padding: 7% 5%;
+    
+}
+h2{
+text-align: center;
+color:#BCEAD5 ;
+font-family: 'Nerko One', cursive;
+font-size:4.7rem;
+background-color: rgba(96, 93, 93, 0.466);
+}
+.navlogofoot{
+    padding: 13% 11%;
+}
+.bacpic{
+    background-image:url(window.jpg);
+    background-size: cover;
+}
+.form{
+    color: white;
+    background-color: rgba(150, 153, 156, 0.392);
+    margin-top: 5%;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-bottom: 0px;
+}
+.navlogofoot{
+    padding: 13% 11%;
+}

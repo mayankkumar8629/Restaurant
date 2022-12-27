@@ -1,0 +1,136 @@
+.navbar-brand {
+    font-family: 'Kenia', cursive;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+#title {
+    background-image: url(vhgfj.jpg);
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    
+
+}
+
+.nav-item {
+    color: rgb(13, 118, 209);
+
+}
+
+h1 {
+    margin: 4% 6%;
+    text-align: center;
+}
+
+
+
+.middle {
+    font-weight: 100;
+    
+    padding: 0% 0%;
+}
+
+.card {
+    margin-left: 5%;
+}
+
+.explanation {
+    text-align: center;
+    padding:7% 13%;
+}
+
+.carouselExampleControls {
+    font-size: larger;
+}
+
+.cara {
+    height: 400px;
+    width: 100%;
+    border: 1px solid black;
+}
+
+h2 {
+    font-family: 'Klee One', cursive;
+    margin-bottom: 6%;
+    margin-top: 4%;
+}
+
+.footer {
+    text-align: center;
+    padding: 5% 15%;
+}
+
+.below {
+    background-color: #9ED5C5;
+}
+
+#section2 {
+    padding: 5% 13%;
+    text-align: center;
+   
+   
+    background-color: #C0EEE4;
+
+}
+
+#quote {
+    text-align: center;
+    font-family: 'Klee One', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu Mono', monospace;
+    padding: 0% 5%;
+}
+
+#author {
+    text-emphasis: None;
+    text-align: right;
+    padding: 5% 10%;
+    font-family: 'Klee One', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu Mono', monospace;
+
+}
+
+.section6 {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: #C0EEE4;
+
+
+}
+
+#gal {
+    text-align: center;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+.naruto {
+    text-align: center;
+    padding-left: 20px;
+    margin-left: 300px;
+}
+
+
+
+.sasuke {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.navbar {
+    text-align: right;
+}
+
+body {
+    margin: 0% 0%;
+}
+
+
+.col-lg-6{
+    padding:0% 0%;
+}
+.navlogofoot{
+    padding: 13% 11%;
+}
